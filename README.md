@@ -1,4 +1,4 @@
-# Refund Project
+# Refund System Project
 
 This project was developed with the aim of learning the **Tailwind CSS** framework for styling the code.
 
@@ -6,8 +6,8 @@ This project was developed with the aim of learning the **Tailwind CSS** framewo
 - **React**: A JavaScript library for building user interfaces.
 - **TypeScript**: A superset of JavaScript that adds static types.
 - **Tailwind CSS**: A utility-first CSS framework for building custom designs without having to leave your HTML.
-  - [Official Website](https://tailwindcss.com/)
-
+  - <a href="https://tailwindcss.com/" target="_blank">Website</a>
+    
 This project was created during the RocketSeat course.
 
 ## Project Overview
@@ -30,5 +30,7 @@ To run the project locally, follow these steps:
    ```bash
    npm run dev
 
-Visit http://localhost:3000 to view the project in your browser.
+- Visit http://localhost:3000 to view the project in your browser.
+
+ - Or <a href="https://refund-system.vercel.app/" target="_blank">Visit the website</a> 
 
